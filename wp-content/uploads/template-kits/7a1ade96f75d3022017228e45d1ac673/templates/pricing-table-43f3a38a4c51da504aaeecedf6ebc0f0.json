@@ -1,0 +1,637 @@
+{
+    "version": "0.4",
+    "title": "Pricing Table",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": true,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "68ddb900",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 572
+                },
+                "background_background": "classic",
+                "background_color": "#ebf6ff",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/kit-133\/wp-content\/uploads\/sites\/136\/2018\/11\/linebgoverlay.png",
+                    "id": 384
+                },
+                "background_overlay_position": "top center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.10000000000000001
+                }
+            },
+            "elements": [
+                {
+                    "id": "2ce2d872",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1927277f",
+                            "settings": {
+                                "heading": "Product Name",
+                                "sub_heading": "Sub Heading",
+                                "price": "39.99",
+                                "period": "Monthly",
+                                "features_list": [
+                                    {
+                                        "item_text": " Primis necessitatibus",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "ecbab6e",
+                                        "item_icon_color": ""
+                                    },
+                                    {
+                                        "item_text": "Vis in, quo ei habeo tollit",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "9dc9179",
+                                        "item_icon_color": ""
+                                    },
+                                    {
+                                        "item_text": " Prodesset, atissimi vel",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "5f22eb4",
+                                        "item_icon_color": ""
+                                    }
+                                ],
+                                "button_text": "Click Here",
+                                "footer_additional_info": "",
+                                "ribbon_title": "Popular",
+                                "header_bg_color": "#ebf6ff",
+                                "header_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "60",
+                                    "bottom": "0",
+                                    "left": "60",
+                                    "isLinked": false
+                                },
+                                "heading_color": "#000000",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Archivo",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "heading_typography_font_weight": "700",
+                                "sub_heading_color": "#7a7a7a",
+                                "sub_heading_typography_typography": "custom",
+                                "sub_heading_typography_font_family": "Lato",
+                                "sub_heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "pricing_element_bg_color": "#ebf6ff",
+                                "pricing_element_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "price_color": "#000000",
+                                "price_typography_typography": "custom",
+                                "price_typography_font_family": "Archivo",
+                                "price_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 72
+                                },
+                                "price_typography_font_weight": "300",
+                                "currency_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "fractional-part_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "period_color": "#7a7a7a",
+                                "period_typography_typography": "custom",
+                                "period_typography_font_family": "Lato",
+                                "period_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "features_list_bg_color": "#ffffff",
+                                "features_list_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "60",
+                                    "bottom": "50",
+                                    "left": "60",
+                                    "isLinked": false
+                                },
+                                "features_list_color": "#000000",
+                                "features_list_typography_typography": "custom",
+                                "features_list_typography_font_family": "Lato",
+                                "features_list_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "features_list_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 22
+                                },
+                                "features_list_alignment": "left",
+                                "divider_color": "",
+                                "divider_weight": {
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "footer_bg_color": "#ffffff",
+                                "footer_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "button_size": "sm",
+                                "button_typography_typography": "custom",
+                                "button_typography_font_family": "Archivo",
+                                "button_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "button_typography_font_weight": "600",
+                                "button_background_color": "#1896fe",
+                                "button_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ribbon_bg_color": "#1896fe",
+                                "ribbon_typography_typography": "custom",
+                                "ribbon_typography_font_family": "Archivo",
+                                "ribbon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "ribbon_typography_text_transform": "capitalize",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "7",
+                                    "right": "7",
+                                    "bottom": "7",
+                                    "left": "7",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 20,
+                                    "vertical": -20,
+                                    "blur": 80,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.1)"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-table",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5725a9df",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "58beda9c",
+                            "settings": {
+                                "heading": "Product Name",
+                                "sub_heading": "Sub Heading",
+                                "price": "39.99",
+                                "period": "Monthly",
+                                "features_list": [
+                                    {
+                                        "item_text": " Primis necessitatibus",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "ecbab6e",
+                                        "item_icon_color": ""
+                                    },
+                                    {
+                                        "item_text": "Vis in, quo ei habeo tollit",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "9dc9179",
+                                        "item_icon_color": ""
+                                    },
+                                    {
+                                        "item_text": " Prodesset, atissimi vel",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "5f22eb4",
+                                        "item_icon_color": ""
+                                    }
+                                ],
+                                "button_text": "Click Here",
+                                "footer_additional_info": "",
+                                "ribbon_title": "Popular",
+                                "header_bg_color": "#1896fe",
+                                "header_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "60",
+                                    "bottom": "0",
+                                    "left": "60",
+                                    "isLinked": false
+                                },
+                                "heading_color": "#ffffff",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Archivo",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "heading_typography_font_weight": "700",
+                                "sub_heading_color": "#ffffff",
+                                "sub_heading_typography_typography": "custom",
+                                "sub_heading_typography_font_family": "Lato",
+                                "sub_heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "pricing_element_bg_color": "#1896fe",
+                                "pricing_element_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "price_color": "#ffffff",
+                                "price_typography_typography": "custom",
+                                "price_typography_font_family": "Archivo",
+                                "price_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 72
+                                },
+                                "price_typography_font_weight": "300",
+                                "currency_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "fractional-part_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "period_color": "#ffffff",
+                                "period_typography_typography": "custom",
+                                "period_typography_font_family": "Lato",
+                                "period_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "features_list_bg_color": "#ffffff",
+                                "features_list_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "60",
+                                    "bottom": "50",
+                                    "left": "60",
+                                    "isLinked": false
+                                },
+                                "features_list_color": "#000000",
+                                "features_list_typography_typography": "custom",
+                                "features_list_typography_font_family": "Lato",
+                                "features_list_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "features_list_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 22
+                                },
+                                "features_list_alignment": "left",
+                                "divider_color": "",
+                                "divider_weight": {
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "footer_bg_color": "#ffffff",
+                                "footer_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "button_size": "sm",
+                                "button_typography_typography": "custom",
+                                "button_typography_font_family": "Archivo",
+                                "button_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "button_typography_font_weight": "600",
+                                "button_background_color": "#1896fe",
+                                "button_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ribbon_bg_color": "#1896fe",
+                                "ribbon_typography_typography": "custom",
+                                "ribbon_typography_font_family": "Archivo",
+                                "ribbon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "ribbon_typography_text_transform": "capitalize",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "7",
+                                    "right": "7",
+                                    "bottom": "7",
+                                    "left": "7",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 20,
+                                    "vertical": -20,
+                                    "blur": 80,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.1)"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-table",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5fbea4fb",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6761584c",
+                            "settings": {
+                                "heading": "Product Name",
+                                "sub_heading": "Sub Heading",
+                                "price": "39.99",
+                                "period": "Monthly",
+                                "features_list": [
+                                    {
+                                        "item_text": " Primis necessitatibus",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "ecbab6e",
+                                        "item_icon_color": ""
+                                    },
+                                    {
+                                        "item_text": "Vis in, quo ei habeo tollit",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "9dc9179",
+                                        "item_icon_color": ""
+                                    },
+                                    {
+                                        "item_text": " Prodesset, atissimi vel",
+                                        "item_icon": "fa fa-check-circle",
+                                        "_id": "5f22eb4",
+                                        "item_icon_color": ""
+                                    }
+                                ],
+                                "button_text": "Click Here",
+                                "footer_additional_info": "",
+                                "show_ribbon": "",
+                                "ribbon_title": "Popular",
+                                "header_bg_color": "#000000",
+                                "header_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "60",
+                                    "bottom": "0",
+                                    "left": "60",
+                                    "isLinked": false
+                                },
+                                "heading_color": "#ffffff",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Archivo",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "heading_typography_font_weight": "700",
+                                "sub_heading_color": "#ffffff",
+                                "sub_heading_typography_typography": "custom",
+                                "sub_heading_typography_font_family": "Lato",
+                                "sub_heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "pricing_element_bg_color": "#000000",
+                                "pricing_element_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "price_color": "#ffffff",
+                                "price_typography_typography": "custom",
+                                "price_typography_font_family": "Archivo",
+                                "price_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 72
+                                },
+                                "price_typography_font_weight": "300",
+                                "currency_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "fractional-part_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "period_color": "#ffffff",
+                                "period_typography_typography": "custom",
+                                "period_typography_font_family": "Lato",
+                                "period_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "features_list_bg_color": "#ffffff",
+                                "features_list_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "60",
+                                    "bottom": "50",
+                                    "left": "60",
+                                    "isLinked": false
+                                },
+                                "features_list_color": "#000000",
+                                "features_list_typography_typography": "custom",
+                                "features_list_typography_font_family": "Lato",
+                                "features_list_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "features_list_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 22
+                                },
+                                "features_list_alignment": "left",
+                                "divider_color": "",
+                                "divider_weight": {
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "footer_bg_color": "#ffffff",
+                                "footer_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "button_size": "sm",
+                                "button_typography_typography": "custom",
+                                "button_typography_font_family": "Archivo",
+                                "button_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "button_typography_font_weight": "600",
+                                "button_background_color": "#1896fe",
+                                "button_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ribbon_bg_color": "#1896fe",
+                                "ribbon_typography_typography": "custom",
+                                "ribbon_typography_font_family": "Archivo",
+                                "ribbon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "ribbon_typography_text_transform": "capitalize",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "7",
+                                    "right": "7",
+                                    "bottom": "7",
+                                    "left": "7",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 20,
+                                    "vertical": -20,
+                                    "blur": 80,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.1)"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-table",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
